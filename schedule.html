@@ -236,7 +236,7 @@
             el: '#speakers',
             methods: {
                 fetch: function () {
-                    axios.get(`https://raw.githubusercontent.com/gdgindonesia/android-dev-talks/main/data/schedule.json`)
+                    axios.get(`https://raw.githubusercontent.com/android-vip-id/site-dev-talks/main/data/schedule.json`)
                         .then(response => {
                             this.firstday = response.data.firstday;
                             this.secondday = response.data.secondday;

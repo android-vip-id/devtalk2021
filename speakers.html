@@ -145,7 +145,7 @@
             el: '#speakers',
             methods: {
                 fetch: function () {
-                    axios.get(`https://raw.githubusercontent.com/gdgindonesia/android-dev-talks/main/data/speakers.json`)
+                    axios.get(`https://raw.githubusercontent.com/android-vip-id/site-dev-talks/main/data/speakers.json`)
                         .then(response => {
                             this.speakers = response.data.speakers;
                         })
