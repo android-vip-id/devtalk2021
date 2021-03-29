@@ -1,3 +1,25 @@
 {
-    "speakers": []
+    "speakers": [
+        {
+            "name": "Sidiq Permana",
+            "title": "CIO, NBS - GDE Android",
+            "linkedin": "https://id.linkedin.com/in/sidiqpermana",
+            "twitter": "https://twitter.com/sidiqpermana",
+            "avatar": "https://nbs.co.id/img/team-sidiq.jpg"
+        },
+        {
+            "name": "Muh Isfhani Ghiath",
+            "title": "Software Engineer, Tokopedia",
+            "linkedin": "https://id.linkedin.com/in/isfaaghyth",
+            "twitter": "https://twitter.com/isfaaghyth",
+            "avatar": "https://avatars.githubusercontent.com/u/6775159?v=4"
+        },
+        {
+            "name": "Rendra Toro",
+            "title": "Technology Advisor, Perintis Teknologi Nusantara",
+            "linkedin": "https://id.linkedin.com/in/rendratoro",
+            "twitter": "https://twitter.com/rdatm",
+            "avatar": "https://avatars.githubusercontent.com/u/5634410?v=4"
+        }
+    ]
 }

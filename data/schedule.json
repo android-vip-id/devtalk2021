@@ -3,22 +3,22 @@
         "name": "Kotlin and Coroutines",
         "schedule": [
             {
-                "time": "6.30 - 6.45pm",
+                "time": "6.30pm - 6.45pm",
                 "title": "Welcoming Speech from Android VIP",
                 "speaker": "Sidiq Permana"
             },
             {
-                "time": "6.45 - 7.20pm",
+                "time": "6.45pm - 7.20pm",
                 "title": "Kotlin Multiplatform",
                 "speaker": "Deny J."
             },
             {
-                "time": "7.30 - 8.05pm",
+                "time": "7.30pm - 8.05pm",
                 "title": "Lighter concurency with Coroutine",
-                "speaker": "Riza Fahmi"
+                "speaker": "Martha Sutopo"
             },
             {
-                "time": "8.15 - 8.50pm",
+                "time": "8.15pm - 8.50pm",
                 "title": "Liberating Code with Kotlin",
                 "speaker": "Muh Isfhani Ghiath"
             }
@@ -28,7 +28,7 @@
         "name": "Android Updates",
         "schedule": [
             {
-                "time": "3 - 3.15pm",
+                "time": "3.00pm - 3.15pm",
                 "title": "Opening: Day-2 Recap and Android Updates",
                 "speaker": "Rendra Toro"
             },
@@ -38,7 +38,7 @@
                 "speaker": "Budi Oktaviyan"
             },
             {
-                "time": "15:00 - 16:00 PM",
+                "time": "4.15pm - 5.05pm",
                 "title": "Session 2",
                 "speaker": "Javent Lienata"
             },
@@ -53,12 +53,12 @@
         "name": "Play and Privacy",
         "schedule": [
             {
-                "time": "6.30 - 6.45pm",
+                "time": "6.30pm - 6.45pm",
                 "title": "Opening: Day-3 Recap",
                 "speaker": "Javent Lienata"
             },
             {
-                "time": "6.45 - 7.35pm",
+                "time": "6.45pm - 7.35pm",
                 "title": "Google Play (TBC)",
                 "speaker": "-"
             },
@@ -68,7 +68,7 @@
                 "speaker": "Esa Firman"
             },
             {
-                "time": "8.25 - 9pm",
+                "time": "8.25pm - 9.00pm",
                 "title": "Session 2",
                 "speaker": "Janice Kartika"
             }
@@ -78,7 +78,7 @@
         "name": "Compose and Testing",
         "schedule": [
             {
-                "time": "3 - 3.15pm",
+                "time": "3.00pm - 3.15pm",
                 "title": "Opening: Day-4 Recap",
                 "speaker": "Andrew"
             },
