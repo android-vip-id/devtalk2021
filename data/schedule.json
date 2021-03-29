@@ -1,7 +1,12 @@
 {
     "firstday": {
-        "name": "Welcoming Speech",
+        "name": "Kotlin and Coroutines",
         "schedule": [
+            {
+                "time": "6.30 - 6.45pm",
+                "title": "Welcoming Speech from Android VIP",
+                "speaker": "Sidiq Permana"
+            },
             {
                 "time": "6.45 - 7.20pm",
                 "title": "Kotlin Multiplatform",
@@ -20,77 +25,77 @@
         ]
     },
     "secondday": {
-        "name": "Chrome Hours & Hackathon Mentoring",
+        "name": "Android Updates",
         "schedule": [
             {
-                "time": "13:00 - 15:00 PM",
-                "title": "Workshop 1",
-                "speaker": "Jefry Dewangga"
+                "time": "3 - 3.15pm",
+                "title": "Opening: Day-2 Recap and Android Updates",
+                "speaker": "Rendra Toro"
             },
             {
-                "time": "",
-                "title": "Workshop 2",
-                "speaker": "Atika Azzahra Akbar"
-            },
-            {
-                "time": "",
-                "title": "Workshop 3",
-                "speaker": "Ivan Kristanto"
-            },
-            {
-                "time": "",
-                "title": "Workshop 4",
-                "speaker": "Angela Melinda"
+                "time": "3.15pm - 4.05pm",
+                "title": "Session 1",
+                "speaker": "Budi Oktaviyan"
             },
             {
                 "time": "15:00 - 16:00 PM",
-                "title": "Mentor 1",
-                "speaker": "Yohan Totting"
+                "title": "Session 2",
+                "speaker": "Javent Lienata"
             },
             {
-                "time": "",
-                "title": "Mentor 2",
-                "speaker": "Riza Fahmi"
-            },
-            {
-                "time": "",
-                "title": "Mentor 3",
-                "speaker": "Hilman Ramadhan"
-            },
-            {
-                "time": "",
-                "title": "Mentor 4",
-                "speaker": "Sandika Galih"
-            },
-            {
-                "time": "",
-                "title": "Mentor 5",
-                "speaker": "Adrianti Rusli"
+                "time": "5.15pm - 5.50pm",
+                "title": "Session 3",
+                "speaker": "Cesario Putra"
             }
         ]
     },
     "thirdday": {
-        "name": "Session Talks & Hackathon Announcement",
+        "name": "Play and Privacy",
         "schedule": [
             {
-                "time": "13:00 - 14:00 PM",
-                "title": "Talk",
-                "speaker": "Friska Nataniel"
+                "time": "6.30 - 6.45pm",
+                "title": "Opening: Day-3 Recap",
+                "speaker": "Javent Lienata"
             },
             {
-                "time": "",
-                "title": "Talk",
-                "speaker": "Hilman Ramadhan"
+                "time": "6.45 - 7.35pm",
+                "title": "Google Play (TBC)",
+                "speaker": "-"
             },
             {
-                "time": "",
-                "title": "Talk",
-                "speaker": "Irfan Maulana"
+                "time": "7.45pm - 8.20pm",
+                "title": "Session 1",
+                "speaker": "Esa Firman"
             },
             {
-                "time": "14:00 - 14:30 PM",
-                "title": "Announcement",
-                "speaker": "GDG Indonesia"
+                "time": "8.25 - 9pm",
+                "title": "Session 2",
+                "speaker": "Janice Kartika"
+            }
+        ]
+    },
+    "fourthday": {
+        "name": "Compose and Testing",
+        "schedule": [
+            {
+                "time": "3 - 3.15pm",
+                "title": "Opening: Day-4 Recap",
+                "speaker": "Andrew"
+            },
+            {
+                "time": "3.15pm - 4.05pm",
+                "title": "Keynote Speech & Jetpack Compose Beta",
+                "speaker": "Yacine Rezgui"
+            },
+            {
+                "time": "4.15pm - 5.05pm",
+                "title": "Session 1",
+                "speaker": "Yolanda"
+            },
+            {
+                "time": "5.15pm - 5.50pm",
+                "title": "Manage State and Testing in Compose",
+                "speaker": "Budy"
             }
         ]
     }
