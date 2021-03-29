@@ -80,7 +80,11 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" id="pills-third-tab" data-toggle="pill" href="#pills-third"
-                                    role="tab" aria-controls="pills-third" aria-selected="false">10 April</a>
+                                    role="tab" aria-controls="pills-third" aria-selected="false">7 April</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="pills-fourth-tab" data-toggle="pill" href="#pills-fourth"
+                                    role="tab" aria-controls="pills-fourth" aria-selected="false">10 April</a>
                             </li>
                         </ul>
                     </div>
@@ -89,7 +93,7 @@
                 <div class="row">
                     <div class="col">
                         <div class="tab-content" id="pills-tabContent">
-                            <!-- 15 Jan -->
+                            <!-- Firt Day -->
                             <div class="tab-pane fade show active" id="pills-first" role="tabpanel"
                                 aria-labelledby="pills-first-tab">
 
@@ -117,7 +121,7 @@
                                 </div>
                             </div>
 
-                            <!-- 23 Jan -->
+                            <!-- Second Day -->
                             <div class="tab-pane fade" id="pills-second" role="tabpanel"
                                 aria-labelledby="pills-second-tab">
 
@@ -146,13 +150,42 @@
 
                             </div>
 
-                            <!-- 30 Jan -->
+                            <!-- Third Day -->
                             <div class="tab-pane fade" id="pills-third" role="tabpanel"
                                 aria-labelledby="pills-third-tab">
 
                                 <h5>{{ thirdday.name }}</h5><br>
 
                                 <div v-for="speaker in thirdday.schedule">
+                                    <hr class="my-4 pb-2" v-if="speaker.time !== ''">
+                                    <div class="row pb-2">
+                                        <div class="col-md align-self-center">
+                                            <h6 class="text-muted">{{ speaker.time }}</h6>
+                                        </div>
+                                        <div class="col-md-11">
+                                            <div class="card schedule">
+                                                <div class="card-body">
+                                                    <h5 class="card-title">{{ speaker.title }}</h5>
+                                                    <img src="http://placehold.it/40x40" class="rounded-circle">
+                                                    <h6 class="card-subtitle mb-2 text-muted speakers-small">{{
+                                                        speaker.speaker }}</h6>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <hr class="my-4 pb-2">
+
+                            </div>
+
+                            <!-- Fourth Day -->
+                            <div class="tab-pane fade" id="pills-fourth" role="tabpanel"
+                                aria-labelledby="pills-fourth-tab">
+
+                                <h5>{{ fourthday.name }}</h5><br>
+
+                                <div v-for="speaker in fourthday.schedule">
                                     <hr class="my-4 pb-2" v-if="speaker.time !== ''">
                                     <div class="row pb-2">
                                         <div class="col-md align-self-center">
@@ -192,7 +225,6 @@
                     <ul class="list-unstyled mb-0">
                         <li><a href="schedule.html" class="text-secondary">Schedule</a></li>
                         <li><a href="speakers.html" class="text-secondary">Speakers</a></li>
-                        <li><a href="hackathon.html" class="text-secondary">Hackathon</a></li>
                     </ul>
                 </div>
 
@@ -232,6 +264,7 @@
                 firstday: '',
                 secondday: '',
                 thirdday: '',
+                fourthday: '',
             },
             el: '#speakers',
             methods: {
@@ -241,6 +274,7 @@
                             this.firstday = response.data.firstday;
                             this.secondday = response.data.secondday;
                             this.thirdday = response.data.thirdday;
+                            this.fourthday = response.data.fourthday;
                         })
                 }
             },
