@@ -2,4 +2,4 @@
 Android Dev Talks - Indonesia 2021
 
 Demo:
-http://www.droidjam.id/
+https://droidjam.id/
