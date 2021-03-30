@@ -25,7 +25,7 @@
         ]
     },
     "secondday": {
-        "name": "Android Updates",
+        "name": "Android Jetpack",
         "schedule": [
             {
                 "time": "3.00pm - 3.15pm",
@@ -34,7 +34,7 @@
             },
             {
                 "time": "3.15pm - 4.05pm",
-                "title": "Session 1",
+                "title": "Manage State and Testing in Compose",
                 "speaker": "Budi Oktaviyan"
             },
             {
@@ -44,8 +44,8 @@
             },
             {
                 "time": "5.15pm - 5.50pm",
-                "title": "Session 3",
-                "speaker": "Cesario Putra"
+                "title": "Introduction to Hilt",
+                "speaker": "Meyta Zennis"
             }
         ]
     },
