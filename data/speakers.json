@@ -9,7 +9,7 @@
         },
         {
             "name": "Muh Isfhani Ghiath",
-            "title": "Software Engineer, Tokopedia",
+            "title": "Sr Software Engineer - Android, Tokopedia",
             "linkedin": "https://id.linkedin.com/in/isfaaghyth",
             "twitter": "https://twitter.com/isfaaghyth",
             "avatar": "https://avatars.githubusercontent.com/u/6775159?v=4"
@@ -27,6 +27,12 @@
             "linkedin": "https://id.linkedin.com/in/javentira-lienata",
             "twitter": "https://twitter.com/vent_lie",
             "avatar": "/img/javent_avatar.jpeg"
+        },
+        {
+            "name": "Meyta Zennis",
+            "title": "Sr Software Engineer - Android, Tokopedia",
+            "linkedin": "https://www.linkedin.com/in/meyta-taliti",
+            "avatar": "/img/meyta.jpeg"
         }
     ]
 }
