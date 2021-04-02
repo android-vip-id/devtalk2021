@@ -34,7 +34,7 @@
             },
             {
                 "time": "3.15pm - 4.05pm",
-                "title": "Manage State and Testing in Compose",
+                "title": "Android Build System with Kotlin Script",
                 "speaker": "Budi Oktaviyan"
             },
             {
@@ -94,8 +94,8 @@
             },
             {
                 "time": "5.15pm - 5.50pm",
-                "title": "Manage State and Testing in Compose",
-                "speaker": "Budy"
+                "title": "The Exorcism of Android - Annotation Processing Tools",
+                "speaker": "Budi Oktaviyan"
             }
         ]
     }
