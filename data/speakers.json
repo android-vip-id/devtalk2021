@@ -1,3 +1,18 @@
 {
-    "speakers": []
+    "speakers": [
+        {
+            "name": "Muh Isfhani Ghiath",
+            "title": "Software Engineer, Tokopedia",
+            "linkedin": "https://id.linkedin.com/in/isfaaghyth",
+            "twitter": "https://twitter.com/isfaaghyth",
+            "avatar": "https://avatars.githubusercontent.com/u/6775159?v=4"
+        },
+        {
+            "name": "Sidiq Permana",
+            "title": "CIO, NBS - GDE Android",
+            "linkedin": "https://id.linkedin.com/in/sidiqpermana",
+            "twitter": "https://twitter.com/sidiqpermana",
+            "avatar": "https://nbs.co.id/img/team-sidiq.jpg"
+        }
+    ]
 }
