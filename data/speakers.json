@@ -1,11 +1,5 @@
 {
     "speakers": [
-        {
-            "name": "Andri Suranta Ginting",
-            "title": "Product Engineer, Gojek",
-            "linkedin": "https://id.linkedin.com/in/andriiginting",
-            "avatar": "https://avatars.githubusercontent.com/u/22597869?v=4"
-        },
         {   
             "name": "Yacine Rezgui",
             "title": "Developer Advocate, Google",
@@ -38,6 +32,12 @@
             "linkedin": "https://id.linkedin.com/in/isfaaghyth",
             "twitter": "https://twitter.com/isfaaghyth",
             "avatar": "https://avatars.githubusercontent.com/u/6775159?v=4"
+        },
+        {
+            "name": "Andri Suranta Ginting",
+            "title": "Product Engineer, Gojek",
+            "linkedin": "https://id.linkedin.com/in/andriiginting",
+            "avatar": "https://avatars.githubusercontent.com/u/22597869?v=4"
         },
         {
             "name": "Rendra Toro",
