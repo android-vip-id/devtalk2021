@@ -1,6 +1,13 @@
 {
     "speakers": [
         {
+            "name": "Yacine Rezgui",
+            "title": "Developer Advocate, Google",
+            "linkedin": "https://uk.linkedin.com/in/yrezgui",
+            "twitter": "https://twitter.com/yrezgui",
+            "avatar": "https://avatars.githubusercontent.com/u/1113976?s=460&v=4"
+        },
+        {
             "name": "Sidiq Permana",
             "title": "CIO, NBS - GDE Android",
             "linkedin": "https://id.linkedin.com/in/sidiqpermana",
