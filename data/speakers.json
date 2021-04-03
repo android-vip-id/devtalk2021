@@ -15,6 +15,20 @@
             "avatar": "https://nbs.co.id/img/team-sidiq.jpg"
         },
         {
+            "name": "Muh Isfhani Ghiath",
+            "title": "Sr Software Engineer - Android, Tokopedia",
+            "linkedin": "https://id.linkedin.com/in/isfaaghyth",
+            "twitter": "https://twitter.com/isfaaghyth",
+            "avatar": "https://avatars.githubusercontent.com/u/6775159?v=4"
+        },
+        {
+            "name": "Esa Firman",
+            "title": "Sr Android Engineer, Tiket.com",
+            "linkedin": "https://www.linkedin.com/in/esa-firman-01b8096b/",
+            "twitter": "https://twitter.com/esafirm",
+            "avatar": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/events/IMG_7680.jpg"
+        },
+        {
             "name": "Deny Jasoet P.",
             "title": "Sr Software Engineer, Gojek",
             "linkedin": "https://id.linkedin.com/in/jasoet",
@@ -25,14 +39,7 @@
             "title": "Founder & CEO, HilColleagues",
             "linkedin": "https://www.linkedin.com/in/martha-sutopo-47339475",
             "avatar": "/img/martha.jpeg"
-        },
-        {
-            "name": "Muh Isfhani Ghiath",
-            "title": "Sr Software Engineer - Android, Tokopedia",
-            "linkedin": "https://id.linkedin.com/in/isfaaghyth",
-            "twitter": "https://twitter.com/isfaaghyth",
-            "avatar": "https://avatars.githubusercontent.com/u/6775159?v=4"
-        },
+        }
         {
             "name": "Andri Suranta Ginting",
             "title": "Product Engineer, Gojek",
