@@ -10,11 +10,11 @@
             {
                 "time": "6.45pm - 7.20pm",
                 "title": "Kotlin Multiplatform",
-                "speaker": "Deny Jasoet"
+                "speaker": "Deny (Jasoet) Prasetyo"
             },
             {
                 "time": "7.30pm - 8.05pm",
-                "title": "Lighter concurency with Coroutine",
+                "title": "Lighter Concurrency with Coroutine",
                 "speaker": "Martha Sutopo"
             },
             {
@@ -39,13 +39,13 @@
             },
             {
                 "time": "4.15pm - 5.05pm",
-                "title": "Benchmarking your Android App",
-                "speaker": "Javent Lienata & Andri Ginting"
+                "title": "Introduction to Hilt",
+                "speaker": "Meyta Zennis"
             },
             {
                 "time": "5.15pm - 5.50pm",
-                "title": "Introduction to Hilt",
-                "speaker": "Meyta Zennis"
+                "title": "Benchmarking your Android App",
+                "speaker": "Javent Lienata & Andri Ginting"
             }
         ]
     },
@@ -54,7 +54,7 @@
         "schedule": [
             {
                 "time": "6.30pm - 6.45pm",
-                "title": "Opening: Day-3 Recap",
+                "title": "Opening: Day-3 Recap Recap and Android Updates",
                 "speaker": "Javent Lienata"
             },
             {
@@ -79,7 +79,7 @@
         "schedule": [
             {
                 "time": "3.00pm - 3.15pm",
-                "title": "Opening: Day-4 Recap",
+                "title": "Opening: Day-4 Recap and Android Updates",
                 "speaker": "Andrew"
             },
             {
