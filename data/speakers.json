@@ -1,6 +1,12 @@
 {
     "speakers": [
         {
+            "name": "Andri Suranta Ginting",
+            "title": "Product Engineer, Gojek",
+            "linkedin": "https://id.linkedin.com/in/andriiginting",
+            "avatar": "https://avatars.githubusercontent.com/u/22597869?v=4"
+        },
+        {   
             "name": "Yacine Rezgui",
             "title": "Developer Advocate, Google",
             "linkedin": "https://uk.linkedin.com/in/yrezgui",
