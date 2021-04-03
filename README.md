@@ -1,5 +1,5 @@
-# android-vip-id.github.io
-Android Dev Talks - Indonesia 2021
+# Android VIP ID Official Website
 
-Demo:
-https://droidjam.id/
+***Android Dev Talks - Indonesia 2021***
+
+[Event Link](https://droidjam.id)
