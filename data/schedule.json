@@ -1,6 +1,6 @@
 {
     "firstday": {
-        "name": "Kotlin and Coroutines",
+        "name": "Day 1",
         "schedule": [
             {
                 "time": "6.30pm - 6.45pm",
@@ -25,7 +25,7 @@
         ]
     },
     "secondday": {
-        "name": "Android Jetpack",
+        "name": "Day 2",
         "schedule": [
             {
                 "time": "3.00pm - 3.15pm",
@@ -50,7 +50,7 @@
         ]
     },
     "thirdday": {
-        "name": "Play and Privacy",
+        "name": "Day 3",
         "schedule": [
             {
                 "time": "6.30pm - 6.45pm",
@@ -58,24 +58,24 @@
                 "speaker": "Javent Lienata"
             },
             {
-                "time": "6.45pm - 7.35pm",
-                "title": "Google Play (TBC)",
-                "speaker": "-"
-            },
-            {
-                "time": "7.45pm - 8.20pm",
+                "time": "6.45pm - 7.20pm",
                 "title": "Scaling Android App Development at tiket.com",
                 "speaker": "Esa Firman"
             },
             {
-                "time": "8.25pm - 9.00pm",
-                "title": "Session 2",
+                "time": "7.30pm - 8.05pm",
+                "title": "Tools to Help You Improve Android App Performance",
                 "speaker": "Janice Kartika"
+            },
+            {
+                "time": "8.15pm - 8.50pm",
+                "title": "Hands on Live Coding Kotlin Multiplatform",
+                "speaker": "Deny (Jasoet) Prasetyo"
             }
         ]
     },
     "fourthday": {
-        "name": "Compose and Testing",
+        "name": "Day 4",
         "schedule": [
             {
                 "time": "3.00pm - 3.15pm",
