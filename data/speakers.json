@@ -78,6 +78,12 @@
             "title": "Product Engineer, Gojek",
             "linkedin": "https://www.linkedin.com/in/janicekartika",
             "avatar": "/img/janice_photo.jpeg"
+        },
+        {
+            "name": "Yolanda Septiana",
+            "title": "Sr. Android App Developer, Bukalapak",
+            "linkedin": "https://id.linkedin.com/in/yolapop",
+            "avatar": "/img/yolanda.jpeg"
         }
     ]
 }
