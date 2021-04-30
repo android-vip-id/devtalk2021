@@ -80,12 +80,12 @@
             {
                 "time": "3.00pm - 3.15pm",
                 "title": "Opening: Day-4 Recap and Android Updates",
-                "speaker": "Andrew"
+                "speaker": "Sidiq Permana"
             },
             {
                 "time": "3.15pm - 4.05pm",
-                "title": "Keynote Speech & Jetpack Compose Beta",
-                "speaker": "Yacine Rezgui"
+                "title": "The Exorcism of Android - Annotation Processing Tools",
+                "speaker": "Budi Oktaviyan"
             },
             {
                 "time": "4.15pm - 5.05pm",
@@ -94,8 +94,8 @@
             },
             {
                 "time": "5.15pm - 5.50pm",
-                "title": "The Exorcism of Android - Annotation Processing Tools",
-                "speaker": "Budi Oktaviyan"
+                "title": "Lesson learned when scaling BliBli Android Application",
+                "speaker": "Cesario Putera"
             }
         ]
     }
